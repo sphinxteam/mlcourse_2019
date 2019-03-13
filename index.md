@@ -1,9 +1,3 @@
-##  INTRODUCTION TO MACHINE LEARNING
-
-You can use the [editor on GitHub](https://github.com/sphinxteam/mlcourse_2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Computer requirement
 
 All exercice will be in python. For instalation, we recomeand
@@ -15,27 +9,26 @@ with anaconda.
 For deep-learning, we shall use keras, tensorflow and pytorch.
 All the exercices will be given as jupyter notebook, so these should be instaled as well.
 
-# Header 1
-## Header 2
-### Header 3
+### Lectures topic
 
-- Bulleted
-- List
+<p> Lecture 1: Introduction to supervised machine learning. KNN, linear models, optimization. Some words on VC and rademacher  bounds
+<p> Lecture 2: Random projection and kernels methods. Ensemble methods (boosting and Bagging)
+<p> Lecture 3: Unsupervised learning with PCA and Kernel PCA. Spectral clustering
+<p> Lecture 4: How to work with	data part 1
+<p> Lecture 5: How to work with data part 2
+<p> Lecture 6: Introduction to Neural network and deep learning
+<p> Lecture 7: Some special architecture: CNN, RNN and LSTM
+<p> Lecture 8: Introduction to reinforcement learning
 
-1. Numbered
-2. List
+### A list of references
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sphinxteam/mlcourse_2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<ul> <li> A list of references: </li> </ul>
+<p> A good book for probability and statistics, accessible to students, is Larry A. Wasserman 's <a href="https://www.ic.unicamp.br/~wainer/cursos/1s2013/m\
+l/livro.pdf">All of Statistics</a></p>
+<p> A good introduction to statistical learning is given in <a href="https://web.stanford.edu/~hastie/ElemStatLearn/">Elements of Statistical Learning </A>\
+ by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie.</p>
+<p> Another great reference is <a href="https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020">Machine Learning:A Pro\
+babilistic Perspective<a/> by Kevin P. Murphy.</p>
+<p> Deep learning is well covered in this new book:
+<a href="http://d2l.ai/">Dive into Deep Learning<a/> by A. Zhang, Z. Lipton, M. Li, A.J. Smola. </p>
