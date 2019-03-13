@@ -20,14 +20,18 @@ All the exercices will be given as jupyter notebook, so these should be instaled
 <p> Lecture 7: Some special architecture: CNN, RNN and LSTM
 <p> Lecture 8: Introduction to reinforcement learning
 
+
+### Where and when?
+
+Lecture will be on monday in April and May 2019, in Ecole Normale Superieure in Paris, in the physics department, Rue Lhomond, at the third floor. The lectures in will be in room  L357 from  9h to 10h30, followed by practical exercices in room L363 and L378.
+
+There will be eight sessions: april 1,8,15,29 and may  6,13,20,27.
+
+
 ### A list of references
 
-
-<ul> <li> A list of references: </li> </ul>
-<p> A good book for probability and statistics, accessible to students, is Larry A. Wasserman 's <a href="https://www.ic.unicamp.br/~wainer/cursos/1s2013/m\
-l/livro.pdf">All of Statistics</a></p>
-<p> A good introduction to statistical learning is given in <a href="https://web.stanford.edu/~hastie/ElemStatLearn/">Elements of Statistical Learning </A>\
- by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie.</p>
+<p> A good book for probability and statistics, accessible to students, is Larry A. Wasserman 's <a href="https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf">All of Statistics</a></p>
+<p> A good introduction to statistical learning is given in <a href="https://web.stanford.edu/~hastie/ElemStatLearn/">Elements of Statistical Learning </a> by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie.</p>
 <p> Another great reference is <a href="https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020">Machine Learning:A Pro\
 babilistic Perspective<a/> by Kevin P. Murphy.</p>
 <p> Deep learning is well covered in this new book:
