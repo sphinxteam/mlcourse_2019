@@ -18,15 +18,14 @@ All the exercices will be given as jupyter notebook, so these should be instaled
 
 ### Lectures topic
 
-<p> Lecture 1: Introduction to supervised machine learning. KNN, linear models, optimization. Some words on VC and rademacher  bounds
-<p> Lecture 2: Random projection and kernels methods. Ensemble methods (boosting and Bagging)
-<p> Lecture 3: Unsupervised learning with PCA and Kernel PCA. Spectral clustering
-<p> Lecture 4: How to work with	data part 1
-<p> Lecture 5: How to work with data part 2
-<p> Lecture 6: Introduction to Neural network and deep learning
-<p> Lecture 7: Some special architecture: CNN, RNN and LSTM
-<p> Lecture 8: Introduction to reinforcement learning
-
+* Lecture 1: Introduction to supervised machine learning. KNN, linear models, optimization. Some words on VC and rademacher  bounds
+* Lecture 2: Random projection and kernels methods. Ensemble methods (boosting and Bagging)
+* Lecture 3: Unsupervised learning with PCA and Kernel PCA. Spectral clustering
+* Lecture 4: How to work with	data part 1
+* Lecture 5: How to work with data part 2
+* Lecture 6: Introduction to Neural network and deep learning
+* Lecture 7: Some special architecture: CNN, RNN and LSTM
+* Lecture 8: Introduction to reinforcement learning
 
 ### Where and when?
 
@@ -34,12 +33,10 @@ Lecture will be on monday in April and May 2019, in Ecole Normale Superieure in 
 
 There will be eight sessions: april 1,8,15,29 and may  6,13,20,27.
 
-
 ### A list of references
 
-<p> A good book for probability and statistics, accessible to students, is Larry A. Wasserman 's <a href="https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf">All of Statistics</a></p>
-<p> A good introduction to statistical learning is given in <a href="https://web.stanford.edu/~hastie/ElemStatLearn/">Elements of Statistical Learning </a> by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie.</p>
-<p> Another great reference is <a href="https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020">Machine Learning:A Pro\
-babilistic Perspective<a/> by Kevin P. Murphy.</p>
-<p> Deep learning is well covered in this new book:
-<a href="http://d2l.ai/">Dive into Deep Learning<a/> by A. Zhang, Z. Lipton, M. Li, A.J. Smola. </p>
+* A good book for probability and statistics, accessible to students, is Larry A. Wasserman 's <a href="https://www.ic.unicamp.br/~wainer/cursos/1s2013/ml/livro.pdf">All of Statistics</a>
+* A good introduction to statistical learning is given in <a href="https://web.stanford.edu/~hastie/ElemStatLearn/">Elements of Statistical Learning </a> by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie.
+* Another great reference is <a href="https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020">Machine Learning:A Probabilistic Perspective<a/> by Kevin P. Murphy.
+* Deep learning is well covered in this new book:
+<a href="http://d2l.ai/">Dive into Deep Learning<a/> by A. Zhang, Z. Lipton, M. Li, A.J. Smola. 
