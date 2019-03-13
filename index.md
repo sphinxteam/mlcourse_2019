@@ -10,8 +10,8 @@ This is a basic introductory course in machine learning and statistical inferenc
 All exercices will be in python. For instalation, we recommand
 (especially for mac and apple computer) Anaconda (http://anaconda.org), more precisly
 Python 3.7, with the following modules: numpy, scipy, matplotlib,
-pandas, h5py, scikit-learn, scikit-image. All these can be installed
-within anaconda.
+pandas, h5py, datasets, scikit-learn and scikit-image. All these can be installed
+within anaconda, or with pip.
 
 For deep-learning, we shall use keras, tensorflow and pytorch. All the exercices will be given as <a href="https://jupyter.org/install">jupyter notebooks</a>, so these should be installed as well.
 
