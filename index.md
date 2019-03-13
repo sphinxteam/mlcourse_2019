@@ -4,12 +4,16 @@ You can use the [editor on GitHub](https://github.com/sphinxteam/mlcourse_2019/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Computer requirement
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+All exercice will be in python. For instalation, we recomeand
+(especially for mac) Anaconda (http://anaconda.org), more precisly
+Python 3.7, with the following modules: numpy, scipy, matplotlib,
+pandas, h5py, scikit-learn, scikit-image. All these can be installed
+with anaconda.
 
-```markdown
-Syntax highlighted code block
+For deep-learning, we shall use keras, tensorflow and pytorch.
+All the exercices will be given as jupyter notebook, so these should be instaled as well.
 
 # Header 1
 ## Header 2
