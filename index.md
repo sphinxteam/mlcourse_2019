@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##  INTRODUCTION TO MACHINE LEARNING
 
 You can use the [editor on GitHub](https://github.com/sphinxteam/mlcourse_2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
