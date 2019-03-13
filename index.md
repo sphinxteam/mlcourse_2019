@@ -1,3 +1,10 @@
+This is a basic course in machine learning and statistical inference, with an emphasis on simple methods, theoretical understanding and practical exercises. The course will combine (and alternate) between methodology with theoretical foundations and practical computational aspects with exercices in python with scikit-learn and pytorch. The topics will be chosen from the following basic outline:
+
+* Statistical theory : Maximum likelihood, Bayes, VC Bounds and Uniform convergence
+* Supervised learning : Linear Regression, Ridge, Lasso, high Dimensional Data, Kernel methods, Boosting 
+* Deep learning: multi-layer net, conv-net, auto-encoder
+* Unsupervised learning : Mixture Models, PCA & Kernel PCA
+
 ### Computer requirement
 
 All exercice will be in python. For instalation, we recomeand
