@@ -1,4 +1,4 @@
-This is a basic course in machine learning and statistical inference, with an emphasis on simple methods, theoretical understanding and practical exercises. The course will combine (and alternate) between methodology with theoretical foundations and practical computational aspects with exercices in python with scikit-learn and pytorch. The topics will be chosen from the following basic outline:
+This is a basic introductory course in machine learning and statistical inference, with an emphasis on simple methods, theoretical understanding and practical exercises. The course will combine (and alternate) between methodology with theoretical foundations and practical computational aspects with exercices in python, using scikit-learn and pytorch. The topics will be chosen from the following basic outline:
 
 * Statistical theory : Maximum likelihood, Bayes, VC Bounds and Uniform convergence
 * Supervised learning : Linear Regression, Ridge, Lasso, high Dimensional Data, Kernel methods, Boosting 
@@ -7,14 +7,13 @@ This is a basic course in machine learning and statistical inference, with an em
 
 ### Computer requirement
 
-All exercice will be in python. For instalation, we recomeand
-(especially for mac) Anaconda (http://anaconda.org), more precisly
+All exercices will be in python. For instalation, we recommand
+(especially for mac and apple computer) Anaconda (http://anaconda.org), more precisly
 Python 3.7, with the following modules: numpy, scipy, matplotlib,
 pandas, h5py, scikit-learn, scikit-image. All these can be installed
-with anaconda.
+within anaconda.
 
-For deep-learning, we shall use keras, tensorflow and pytorch.
-All the exercices will be given as jupyter notebook, so these should be instaled as well.
+For deep-learning, we shall use keras, tensorflow and pytorch. All the exercices will be given as <a href="https://jupyter.org/install">jupyter notebooks</a>, so these should be installed as well.
 
 ### Lectures topic
 
