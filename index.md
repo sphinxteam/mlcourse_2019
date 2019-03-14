@@ -10,8 +10,8 @@ This is a basic introductory course in machine learning and statistical inferenc
 All exercices will be in python. For instalation, we recommand
 (especially for mac and apple computer) Anaconda (http://anaconda.org), more precisly
 Python 3.7, with the following modules: numpy, scipy, matplotlib,
-pandas, h5py, scikit-learn, scikit-image. All these can be installed
-within anaconda.
+pandas, h5py, datasets, scikit-learn and scikit-image. All these can be installed
+within anaconda, or with pip.
 
 For deep-learning, we shall use keras, tensorflow and pytorch. All the exercices will be given as <a href="https://jupyter.org/install">jupyter notebooks</a>, so these should be installed as well.
 
@@ -20,10 +20,12 @@ For deep-learning, we shall use keras, tensorflow and pytorch. All the exercices
 * Lecture 1: Introduction to supervised machine learning. KNN, linear models, optimization. Some words on VC and rademacher  bounds [see notebooks](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec1)
 * Lecture 2: Random projection and kernels methods. Ensemble methods (boosting and Bagging) [see notebooks](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec2)
 * Lecture 3: Unsupervised learning with PCA and Kernel PCA. Spectral clustering
+[see notebooks](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec3)
 * Lecture 4: How to work with	data part 1
+[see notebooks](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec4)
 * Lecture 5: How to work with data part 2
-* Lecture 6: Introduction to Neural network and deep learning [see notebooks](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec3)
-* Lecture 7: Some special architecture: CNN, RNN and LSTM [see notebooks](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec4)
+* Lecture 6: Introduction to Neural network and deep learning [see notebooks](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec6)
+* Lecture 7: Some special architecture: CNN, RNN and LSTM [see notebooks](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec7)
 * Lecture 8: Introduction to reinforcement learning
 
 ### Where and when?
