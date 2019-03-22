@@ -4,6 +4,7 @@ This is a basic introductory course in machine learning and statistical inferenc
 * Supervised learning : Linear Regression, Ridge, Lasso, high Dimensional Data, Kernel methods, Boosting 
 * Deep learning: multi-layer net, conv-net, auto-encoder
 * Unsupervised learning : Mixture Models, PCA & Kernel PCA
+* Basics of Generative models & Reinforcement learning
 
 ### Computer requirement
 
