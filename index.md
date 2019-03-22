@@ -8,7 +8,7 @@ This is a basic introductory course in machine learning and statistical inferenc
 ### Computer requirement
 
 All exercices will be in python. For instalation, we recommand
-(especially for mac and apple computer) Anaconda (http://anaconda.org), more precisly
+(especially for mac and apple computers) [Anaconda](http://anaconda.org), more precisly
 Python 3.7, with the following modules: numpy, scipy, matplotlib,
 pandas, h5py, datasets, scikit-learn and scikit-image. All these can be installed
 within anaconda, or with pip. 
