@@ -31,6 +31,8 @@ For deep-learning, we shall use keras (version >= 2.2.4) and tensorflow (version
 
 ### Where and when?
 
+Inscription should be made with the "Ecole Doctorale EDPIF" : [e-mail](<edpif.psl@edpif.org>)
+
 Lecture will be on monday in April and May 2019, in Ecole Normale Superieure in Paris, in the physics department, Rue Lhomond, at the third floor. The lectures in will be in room  L357 from  9h to 10h30, followed by practical exercices in room L363 and L378.
 
 There will be eight sessions: april 1,8,15,29 and may  6,13,20,27.
@@ -42,3 +44,5 @@ There will be eight sessions: april 1,8,15,29 and may  6,13,20,27.
 * Another great reference is <a href="https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020">Machine Learning:A Probabilistic Perspective<a/> by Kevin P. Murphy.
 * Deep learning is well covered in this new book:
 <a href="http://d2l.ai/">Dive into Deep Learning<a/> by A. Zhang, Z. Lipton, M. Li, A.J. Smola. 
+  
+  
