@@ -11,9 +11,9 @@ All exercices will be in python. For instalation, we recommand
 (especially for mac and apple computer) Anaconda (http://anaconda.org), more precisly
 Python 3.7, with the following modules: numpy, scipy, matplotlib,
 pandas, h5py, datasets, scikit-learn and scikit-image. All these can be installed
-within anaconda, or with pip.
+within anaconda, or with pip. 
 
-For deep-learning, we shall use keras, tensorflow and pytorch. All the exercices will be given as <a href="https://jupyter.org/install">jupyter notebooks</a>, so these should be installed as well.
+For deep-learning, we shall use keras (version >= 2.2.4) and tensorflow (version >= 1.13.1) . All the exercices will be given as <a href="https://jupyter.org/install">jupyter notebooks</a>, so jupyter should be installed as well. We will also use pytorch.
 
 ### Lectures topic
 
