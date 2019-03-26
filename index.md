@@ -47,6 +47,7 @@ There will be eight sessions: april 1,8,15,29 and may  6,13,20,27.
   
 ### Many thanks to...
 
- ![https://data-ens.github.io](http://www.fondation-cfm.fr/contents/themes/CFM/img/export/logo_CFM.png){width=40%}
- ![https://cloud.google.com/](Unknown.png){width=20%}
- ![https://www.edpif.org/en/index.php](ani.gif){width=20%}
+ ![https://data-ens.github.io](http://www.fondation-cfm.fr/contents/themes/CFM/img/export/logo_CFM.png)
+ ![https://cloud.google.com/](Unknown.png)
+ ![https://www.edpif.org/en/index.php](ani.gif)
+![https://scikit-learn.org/stable](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
