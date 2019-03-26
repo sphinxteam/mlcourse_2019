@@ -45,4 +45,6 @@ There will be eight sessions: april 1,8,15,29 and may  6,13,20,27.
 * Deep learning is well covered in this new book:
 <a href="http://d2l.ai/">Dive into Deep Learning<a/> by A. Zhang, Z. Lipton, M. Li, A.J. Smola. 
   
-  
+### Sponsors
+
+ ![](http://www.fondation-cfm.fr/contents/themes/CFM/img/export/logo_CFM.png)
