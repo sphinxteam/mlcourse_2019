@@ -8,13 +8,13 @@ This is a basic introductory course in machine learning and statistical inferenc
 
 ### Computer requirement
 
-All exercices will be in python. For instalation, we recommand
-(especially for mac and apple computers) [Anaconda](http://anaconda.org), more precisly
+All exercices will be in python. For practical installation, we recommand
+(especially for apple computers) [Anaconda](http://anaconda.org).  More precisly, we shall use
 Python 3.7, with the following modules: numpy, scipy, matplotlib,
 pandas, h5py, datasets, scikit-learn and scikit-image. All these can be installed
 within anaconda, or with pip. 
 
-For deep-learning, we shall use keras (version >= 2.2.4) and tensorflow (version >= 1.13.1) . All the exercices will be given as <a href="https://jupyter.org/install">jupyter notebooks</a>, so jupyter should be installed as well. We will also use pytorch.
+For deep-learning, we shall use keras (version >= 2.2.4) and tensorflow (version >= 1.13.1) . All the exercices will be given as <a href="https://jupyter.org/install">jupyter notebooks</a>, so jupyter should be installed as well. We will also use pytorch later in the course.
 
 ### Lectures topic
 
