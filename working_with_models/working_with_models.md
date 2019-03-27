@@ -5,7 +5,7 @@
 - spurious correlation
 - p-hacking
 - correlation is not causation
-  - selection bias, confounders, simpson paradox
+  - selection bias, confounders, Simpson's paradox, Berkson's paradox
   - intro to causal calculus, intervention
 - the "let data speak for itself" fallacy
   - you *need* assumptions / models
