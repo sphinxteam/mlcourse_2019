@@ -17,4 +17,4 @@ est_labels = knn(X, y, 10)
 print(est_labels)
 
 # Let us compute the training error
-print(np.mean(y != est_labels))
+print("training error (misclassification):", np.mean(y != est_labels))
