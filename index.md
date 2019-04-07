@@ -18,7 +18,7 @@ For deep-learning, we shall use keras (version >= 2.2.4) and tensorflow (version
 
 ### Lectures topic
 
-* Lecture 1: Introduction to supervised machine learning. KNN, linear models, optimization. Some words on VC and rademacher  bounds [[slides]](https://github.com/sphinxteam/mlcourse_2019/blob/master/slides/lec1_ml_2019.pdf),[[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec1) 
+* Lecture 1: Introduction to supervised machine learning. KNN, linear models, optimization. Some words on VC and Rademacher  bounds [[slides]](https://github.com/sphinxteam/mlcourse_2019/blob/master/slides/lec1_ml_2019.pdf),[[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec1) 
 * Lecture 2: Kernel trick, Kernels methods and random  projections. Unsupervised learning with PCA and Kernel PCA,[[see notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec2)
 * Lecture 3: Ensemble methods (boosting and Bagging)
 [see notebooks](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec3)
@@ -45,6 +45,8 @@ There will be eight sessions: april 1,8,15,29 and may  6,13,20,27.
 * Deep learning is well covered in this new book:
 <a href="http://d2l.ai/">Dive into Deep Learning<a/> by A. Zhang, Z. Lipton, M. Li, A.J. Smola. 
 * Un recent, et excellent, livre de reference en Francais: <a href="https://www.amazon.fr/Introduction-Machine-Learning-Chloé-Agathe-Azencott/dp/2100780808">Introduction au Machine Learning </a> par Chloé-Agathe Azencott. 
+* A very nice review on <a href="https://arxiv.org/abs/1903.10563"> machine learning for physics </a>.
+* An introduction to <a href="https://arxiv.org/abs/1803.08823">machine learning for physicists</a>.
   
 ### Many thanks to...
 
