@@ -1,3 +1,5 @@
 # notebook checkpoints
 .ipynb_checkpoints
 *-solutions.ipynb
+
+.DS_store
