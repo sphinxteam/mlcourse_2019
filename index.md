@@ -19,14 +19,14 @@ For deep-learning, we shall use keras (version >= 2.2.4) and tensorflow (version
 ### Lectures topic
 
 * Lecture 1: Introduction to supervised machine learning. KNN, linear models, optimization. Some words on VC and Rademacher  bounds [[slides]](https://github.com/sphinxteam/mlcourse_2019/blob/master/slides/lec1_ml_2019.pdf),[[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec1) 
-* Lecture 2: Kernel trick, Kernels methods and random  projections. Unsupervised learning with PCA and Kernel PCA,[[see notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec2)
-* Lecture 3: Ensemble methods (boosting and Bagging)
-[see notebooks](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec3)
+* Lecture 2: Kernel trick, Kernels methods, and random features,[[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec2)
+* Lecture 3: Unsupervised learning with PCA and Kernel PCA, Ensemble methods (Boosting and Bagging)
+[[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec3)
 * Lecture 4: How to work with	data part 1
-[see notebooks](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec4)
+[[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec4)
 * Lecture 5: How to work with data part 2
-* Lecture 6: Introduction to Neural network and deep learning [see notebooks](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec6)
-* Lecture 7: Some special architecture: CNN, RNN and LSTM [see notebooks](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec7)
+* Lecture 6: Introduction to Neural network and deep learning [[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec6)
+* Lecture 7: Some special architecture: CNN, RNN and LSTM [[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec7)
 * Lecture 8: Introduction to reinforcement learning
 
 ### Where and when?
