@@ -20,7 +20,8 @@ For deep-learning, we shall use keras (version >= 2.2.4) and tensorflow (version
 
 * Lecture 1: Introduction to supervised machine learning. KNN, linear models, optimization. Some words on VC and Rademacher  bounds [[slides]](https://github.com/sphinxteam/mlcourse_2019/blob/master/slides/lec1_ml_2019.pdf),[[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec1) 
 * Lecture 2: Kernel trick, Kernels methods, and random features,[[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec2)
-* Lecture 3: Unsupervised learning with PCA and Kernel PCA, Ensemble methods (Boosting and Bagging)
+* Lecture 3: Unsupervised learning with PCA and Kernel PCA, Ensemble methods (Boosting and Bagging) 
+ [[slides]](https://github.com/sphinxteam/mlcourse_2019/blob/master/slides/lec3_ml_2019.pdf),
 [[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec3)
 * Lecture 4: How to work with	data part 1
 [[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec4)
