@@ -3,3 +3,6 @@
 *-solutions.ipynb
 
 .DS_store
+
+# altair data
+altair-data-*.csv
