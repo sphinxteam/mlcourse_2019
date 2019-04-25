@@ -1,0 +1,6 @@
+treatment,age,sick
+A,20,True
+A,32,False
+B,12,False
+B,45,False
+B,80,True

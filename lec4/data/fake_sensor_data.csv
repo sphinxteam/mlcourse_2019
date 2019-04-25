@@ -1,0 +1,6 @@
+date,sensor,values
+2018-01-01,pressure,101
+2018-01-01,temperature,19
+2018-01-02,pressure,100
+2018-01-02,temperature,21
+2018-01-02,humidity,30
