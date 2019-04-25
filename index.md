@@ -16,6 +16,9 @@ within anaconda, or with pip.
 
 For deep-learning, we shall use keras (version >= 2.2.4) and tensorflow (version >= 1.13.1) . All the exercices will be given as <a href="https://jupyter.org/install">jupyter notebooks</a>, so jupyter should be installed as well. We will also use pytorch later in the course.
 
+For the Lecture 4, you will need JupyterLab and some additional packages, see the
+[installation instructions](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec4/README.md).
+
 ### Lectures topic
 
 * Lecture 1: Introduction to supervised machine learning. KNN, linear models, optimization. Some words on VC and Rademacher  bounds [[slides]](https://github.com/sphinxteam/mlcourse_2019/blob/master/slides/lec1_ml_2019.pdf),[[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec1) 
@@ -23,9 +26,9 @@ For deep-learning, we shall use keras (version >= 2.2.4) and tensorflow (version
 * Lecture 3: Unsupervised learning with PCA and Kernel PCA, Ensemble methods (Boosting and Bagging) 
  [[slides]](https://github.com/sphinxteam/mlcourse_2019/blob/master/slides/lec3_ml_2019.pdf),
 [[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec3)
-* Lecture 4: How to work with	data part 1
+* Lecture 4: How to work with	data
 [[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec4)
-* Lecture 5: How to work with data part 2
+* Lecture 5: How to work with models
 * Lecture 6: Introduction to Neural network and deep learning [[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec6)
 * Lecture 7: Some special architecture: CNN, RNN and LSTM [[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec7)
 * Lecture 8: Introduction to reinforcement learning
