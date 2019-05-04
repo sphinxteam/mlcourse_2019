@@ -28,7 +28,7 @@ For deep-learning, we shall use keras (version >= 2.2.4) and tensorflow (version
 [[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec3)
 * Lecture 4: How to work with	data
 [[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec4) [[installation requirements]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec4/README.md)
-* Lecture 5: How to work with models
+* Lecture 5: How to work with models [[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec5)
 * Lecture 6: Introduction to Neural network and deep learning [[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec6)
 * Lecture 7: Some special architecture: CNN, RNN and LSTM [[notebooks]](https://github.com/sphinxteam/mlcourse_2019/tree/master/lec7)
 * Lecture 8: Introduction to reinforcement learning
