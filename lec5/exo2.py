@@ -3,7 +3,7 @@ yellow fingers. However smoking causes both lung cancer and yellow fingers.
 The statisical association between yellow fingers and cancer is entirely due 
 to the counfouding effect of smoking. As shown with the barplots below, lung 
 cancer becomes independent of yellow fingers when we condition on smoking. 
-This an example of counfounding or Simpson's paradox.
+This an example of confounding or Simpson's paradox.
 """
 
 # barplot P(lung_cancer|yellow_fingers, smoking)
