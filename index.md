@@ -52,6 +52,10 @@ There will be eight sessions: april 1,8,15,29 and may  6,13,20,27.
 * A very nice review on <a href="https://arxiv.org/abs/1903.10563"> machine learning for physics </a>.
 * An introduction to <a href="https://arxiv.org/abs/1803.08823">machine learning for physicists</a>.
   
+### Need a GPU for computing?
+
+You would like to try deep learning but don't have a GPU? Or you don't want to install software on your computer? This tutorial from my friend Colin Bernet, aka "the data frog" is for you. It requires no specific hardware or software and  use the Colaboratory platform from Google, check it out: <a href="https://thedatafrog.com/deep-learning-keras/">the data frog tutorial</a>.
+  
 ### Many thanks to...
 
  ![https://data-ens.github.io](http://www.fondation-cfm.fr/contents/themes/CFM/img/export/logo_CFM.png)
