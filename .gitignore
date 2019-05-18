@@ -6,3 +6,6 @@
 
 # altair data
 altair-data-*.csv
+
+# cats and dogs data
+lec7/mldata/cats_and_dogs_small*
