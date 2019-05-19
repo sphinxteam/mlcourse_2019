@@ -54,7 +54,9 @@ There will be eight sessions: april 1,8,15,29 and may  6,13,20,27.
   
 ### Need a GPU for computing?
 
-You would like to try deep learning but don't have a GPU? Or you don't want to install software on your computer? This tutorial from my friend Colin Bernet, aka "the data frog" is for you. It requires no specific hardware or software and  use the Colaboratory platform from Google, check it out: <a href="https://thedatafrog.com/deep-learning-keras/">the data frog tutorial</a>.
+You would like to try deep learning but don't have a GPU? Or you don't want to install software on your computer? A great solution is to use the Colaboratory platform from Google:  It requires no specific hardware or software! 
+You can find the CNN example from our own lec 7 <a href="https://colab.research.google.com/drive/1pISitRt5YYElECn-KWqBQK5qpEgeStYS">here</a>. This tutorial from my friend Colin Bernet, aka "the data frog", also show a similar example: check out <a href="https://thedatafrog.com/deep-learning-keras/">the data frog tutorial</a>.
+
   
 ### Many thanks to...
 
